@@ -4,4 +4,8 @@ public class TestCherryPicker {
     public void  firtsCommit() {
         System.out.printf("primer commit");
     }
+
+    public void  segundoCommit() {
+        System.out.printf("segundo commit");
+    }
 }
